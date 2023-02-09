@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Dosa
 Burger
 Pizza
-=======
 DDLJ
 Kabhi Khushi Kabhi Gam
->>>>>>> movies
